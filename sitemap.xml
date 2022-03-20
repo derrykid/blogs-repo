@@ -2,17 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://derry.club/</loc>
-    <lastmod>2022-03-16T17:00:06+08:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/posts/myfirst/</loc>
-    <lastmod>2022-03-16T17:00:06+08:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/posts/</loc>
-    <lastmod>2022-03-16T17:00:06+08:00</lastmod>
-  </url><url>
     <loc>https://derry.club/categories/</loc>
+    <lastmod>2022-03-17T14:26:35+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/command/</loc>
+    <lastmod>2022-03-17T14:26:35+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/database/</loc>
+    <lastmod>2022-03-17T14:26:35+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/categories/database/</loc>
+    <lastmod>2022-03-17T14:26:35+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/</loc>
+    <lastmod>2022-03-17T14:26:35+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/command/keys-in-database/</loc>
+    <lastmod>2022-03-17T14:26:35+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/mysql/</loc>
+    <lastmod>2022-03-17T14:26:35+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/</loc>
+    <lastmod>2022-03-17T14:26:35+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/command/</loc>
+    <lastmod>2022-03-17T12:06:46+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/format/</loc>
+    <lastmod>2022-03-17T12:06:46+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/command/how-to-format-flash-drive/</loc>
+    <lastmod>2022-03-17T12:06:46+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/linux/</loc>
+    <lastmod>2022-03-17T12:06:46+08:00</lastmod>
   </url>
 </urlset>
