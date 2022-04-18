@@ -3,37 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://derry.club/categories/</loc>
-    <lastmod>2022-04-18T11:36:21+08:00</lastmod>
+    <lastmod>2022-04-18T14:30:55+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/</loc>
-    <lastmod>2022-04-18T11:36:21+08:00</lastmod>
+    <lastmod>2022-04-18T14:30:55+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/java/</loc>
-    <lastmod>2022-04-18T11:36:21+08:00</lastmod>
+    <lastmod>2022-04-18T14:30:55+08:00</lastmod>
   </url><url>
-    <loc>https://derry.club/categories/java/</loc>
-    <lastmod>2022-04-18T11:36:21+08:00</lastmod>
+    <loc>https://derry.club/posts/java/static-keyword/</loc>
+    <lastmod>2022-04-18T14:30:55+08:00</lastmod>
   </url><url>
-    <loc>https://derry.club/java/</loc>
-    <lastmod>2022-04-18T11:36:21+08:00</lastmod>
+    <loc>https://derry.club/posts/</loc>
+    <lastmod>2022-04-18T14:30:55+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/categories/programming/</loc>
+    <lastmod>2022-04-18T14:30:55+08:00</lastmod>
+  </url><url>
+    <loc>https://derry.club/tags/static/</loc>
+    <lastmod>2022-04-18T14:30:55+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/</loc>
-    <lastmod>2022-04-18T11:36:21+08:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/java/test/</loc>
-    <lastmod>2022-04-18T11:36:21+08:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/java/static/</loc>
-    <lastmod>2022-04-16T21:54:34+08:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/tags/java-static/</loc>
-    <lastmod>2022-04-16T21:54:34+08:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/categories/programming-language/</loc>
-    <lastmod>2022-04-16T21:54:34+08:00</lastmod>
-  </url><url>
-    <loc>https://derry.club/command/</loc>
-    <lastmod>2022-03-17T14:26:35+08:00</lastmod>
+    <lastmod>2022-04-18T14:30:55+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/database/</loc>
     <lastmod>2022-03-17T14:26:35+08:00</lastmod>
@@ -41,7 +32,7 @@
     <loc>https://derry.club/categories/database/</loc>
     <lastmod>2022-03-17T14:26:35+08:00</lastmod>
   </url><url>
-    <loc>https://derry.club/command/keys-in-database/</loc>
+    <loc>https://derry.club/posts/keys-in-database/</loc>
     <lastmod>2022-03-17T14:26:35+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/mysql/</loc>
@@ -53,7 +44,7 @@
     <loc>https://derry.club/tags/format/</loc>
     <lastmod>2022-03-17T12:06:46+08:00</lastmod>
   </url><url>
-    <loc>https://derry.club/command/how-to-format-flash-drive/</loc>
+    <loc>https://derry.club/posts/how-to-format-flash-drive/</loc>
     <lastmod>2022-03-17T12:06:46+08:00</lastmod>
   </url><url>
     <loc>https://derry.club/tags/linux/</loc>
