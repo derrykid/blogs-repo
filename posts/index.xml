@@ -9,7 +9,22 @@
       <link>https://derry.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Apr 2022 14:30:55 +0800</lastBuildDate><atom:link href="https://derry.club/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 18:47:30 +0800</lastBuildDate><atom:link href="https://derry.club/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Cheatsheet</title>
+      <link>https://derry.club/posts/git-cheatsheet/</link>
+      <pubDate>Mon, 27 Jun 2022 18:47:30 +0800</pubDate>
+      
+      <guid>https://derry.club/posts/git-cheatsheet/</guid>
+      <description>[toc]
+I learn git from this interactive tutorial. I take note along the way while I was doing it.
+Learn git visual
+Commit to repo We was on C1 commit
+git commit Branch new branch git branch &amp;lt;name&amp;gt; change branch git checkout &amp;lt;name&amp;gt; create a new branch and check it out It can be shorthand:
+git checkout -b &amp;lt;name&amp;gt; merge Now we are working on main branch
+We are going to merge the branch bugFix into main</description>
+    </item>
+    
     <item>
       <title>Java - static Keyword</title>
       <link>https://derry.club/posts/java/static-keyword/</link>
